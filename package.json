@@ -1,0 +1,27 @@
+{
+  "name": "app_node",
+  "version": "1.0.0",
+  "description": "Proyecto en node js simulando un CRUD",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "crud",
+    "react",
+    "front",
+    "back"
+  ],
+  "author": "Didier Alexander Galvis Galvis",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.26.0"
+  }
+}
